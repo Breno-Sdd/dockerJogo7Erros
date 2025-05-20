@@ -56,8 +56,8 @@ No entanto, existem 7 erros nos arquivos de configuração que impedem a aplica�
 2. Copie a URL do repositório
 3. Abra o terminal e execute:
    ```
-   git clone [URL_DO_SEU_FORK]
-   cd [NOME_DO_REPOSITORIO]
+   git clone https://github.com/AleTavares/dockerJogo7Erros.git
+   cd dockerJogo7Erros
    ```
 
 ### Fazendo as Alterações
